@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--== Theme Base ==-->
+    <style name="Base.Theme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Disallow "Force dark theme" -->
+        <item name="android:forceDarkAllowed" tools:targetApi="Q">false</item>
+
+        <!-- Theme Colors -->
+        <item name="colorPrimary">@color/default_primary</item>
+        <item name="colorOnPrimary">@color/default_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/default_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/default_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/default_secondary</item>
+        <item name="colorOnSecondary">@color/default_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/default_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/default_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/default_tertiary</item>
+        <item name="colorOnTertiary">@color/default_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/default_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/default_onTertiaryContainer</item>
+        <item name="android:colorBackground">@color/default_background</item>
+        <item name="colorOnBackground">@color/default_onBackground</item>
+        <item name="colorSurface">@color/default_surface</item>
+        <item name="colorOnSurface">@color/default_onSurface</item>
+        <item name="colorSurfaceVariant">@color/default_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/default_onSurfaceVariant</item>
+        <item name="colorOutline">@color/default_outline</item>
+        <item name="colorOnSurfaceInverse">@color/default_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/default_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/default_primaryInverse</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/onError</item>
+        <item name="colorErrorContainer">@color/errorContainer</item>
+        <item name="colorOnErrorContainer">@color/onErrorContainer</item>
+
+        <item name="android:divider">@color/divider_default</item>
+        <item name="android:listDivider">@drawable/line_divider</item>
+
+        <!-- Ripples -->
+        <item name="colorControlHighlight">?attr/colorSurfaceVariant</item>
+
+        <!-- Themes -->
+        <item name="android:windowLightStatusBar">@bool/lightStatusBar</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/surface_amoled</item>
+        <item name="android:navigationBarDividerColor" tools:targetApi="o_mr1">@null</item>
+        <item name="android:enforceNavigationBarContrast" tools:targetApi="Q">false</item>
+        <item name="android:enforceStatusBarContrast" tools:targetApi="Q">false</item>
+        <item name="android:itemTextAppearance">@style/TextAppearance.Widget.Menu</item>
+        <item name="android:alertDialogTheme">@style/ThemeOverlay.MaterialAlertDialog</item>
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.MaterialAlertDialog</item>
+        <item name="textAppearanceButton">@style/TextAppearance.Widget.Button</item>
+        <item name="android:buttonStyle">?attr/borderlessButtonStyle</item>
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionOverflowButtonStyle">@style/Theme.ActionButton.Overflow</item>
+        <item name="actionModeCloseButtonStyle">@style/Theme.ActionMode.CloseButton</item>
+        <item name="actionModeCloseDrawable">@drawable/ic_window_close_24dp</item>
+        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.BottomSheetDialog</item>
+        <item name="chipStyle">@style/Widget.Chip.Action</item>
+        <item name="chipTextColor">?android:attr/textColorPrimary</item>
+        <item name="chipBackgroundColor">?android:attr/divider</item>
+        <item name="textInputStyle">@style/Widget.Material3.TextInputLayout.OutlinedBox</item>
+        <item name="appBarLayoutStyle">@style/Widget.Material3.AppBarLayout</item>
+        <item name="toolbarStyle">@style/Widget.Material3.Toolbar.Surface</item>
+        <item name="collapsingToolbarLayoutStyle">@style/Widget.Material3.CollapsingToolbar</item>
+        <item name="tabStyle">@style/Widget.TabLayout</item>
+        <item name="bottomNavigationStyle">@style/Widget.BottomNavigationView</item>
+        <item name="switchStyle">@style/Widget.Switch</item>
+        <item name="sliderStyle">@style/Widget.Slider</item>  
+        <item name="materialCardViewStyle">@style/Widget.Material3.CardView.Elevated</item>
+    </style>
+
+
+    <!--== Default Theme ==-->
+    <style name="Theme.VTheme" parent="Base.Theme" />
+
+</resources>

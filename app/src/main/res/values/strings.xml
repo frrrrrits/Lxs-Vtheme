@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LxsVTheme</string>
+    <string name="action_close">close</string>
+    <string name="action_share">Share</string>
+    <string name="action_search">Pencarian</string>
+    <string name="action_settings">Pengaturan</string>
+</resources>
