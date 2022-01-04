@@ -18,7 +18,7 @@ Unduh di [Telegram channel](https://t.me/vivothemelx49)
 
 [AndroidIDE](https://github.com/itsaky/AndroidIDE)
 
-* FULLY BUILD WITH ANDROID
+`FULLY BUILD WITH ANDROID`
 
 
 
