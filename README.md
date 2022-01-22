@@ -1,4 +1,5 @@
-#![app icon](images/logo.png) LxsVTheme
+<img src="images/logo.png" width="100" height="100" />
+# LxsVTheme
 Download tema dari iTheme (vivo) secara gratis.
 
 ## Step
