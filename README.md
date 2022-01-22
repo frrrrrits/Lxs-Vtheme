@@ -10,9 +10,13 @@ Fitur:
 * Memasang tema automatis.
 
 ## Preview
-| Home Screen | Support Chinese/Gobal Servers |
-| ----------- | -------- |
-| <img src="images/Screenshot_20220122_210730.jpg" width="100" height="200" alt="Home Screen" /> | <img src="images/Screenshot_20220122_210748.jpg" width="100" height="200" alt="Settings" /> |
+| Search Screen |
+| ----------- |
+| <img src="images/Screenshot_20220122_210730.jpg" width="100" height="200" alt="Home Screen" /> | 
+
+| Support Chinese/Global Servers |
+| ----------- |
+| <img src="images/Screenshot_20220122_210748.jpg" width="100" height="200" alt="Settings" /> |
 
 
 ## Download
