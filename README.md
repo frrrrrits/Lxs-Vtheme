@@ -1,6 +1,4 @@
-![logo](images/logo.png)
-
-# LxsVTheme
+#![app icon](images/logo.png) LxsVTheme
 Download tema dari iTheme (vivo) secara gratis.
 
 ## Step
