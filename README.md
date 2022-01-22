@@ -14,7 +14,7 @@ Fitur:
 | ----------- |
 | <img src="images/Screenshot_20220122_210730.jpg" width="100" height="200" alt="Home Screen" /> | 
 
-| Support Chinese/Global Servers |
+Support Chinese/Global Servers
 | ----------- |
 | <img src="images/Screenshot_20220122_210748.jpg" width="100" height="200" alt="Settings" /> |
 
@@ -27,9 +27,6 @@ Unduh di [Telegram channel](https://t.me/vivothemelx49)
 [AideLua](https://gitee.com/Jesse205/AideLua)
 
 [AndroidIDE](https://github.com/itsaky/AndroidIDE)
-
-`FULLY BUILD WITH ANDROID`
-
 
 
 ## Disclaimer
